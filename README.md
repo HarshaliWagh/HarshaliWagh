@@ -1,4 +1,4 @@
-# github-profile-summary
+# My GitHub Journey
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshali-wagh&theme=default)
 
